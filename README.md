@@ -4,7 +4,7 @@
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me: please don't
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Mercury is on average the closest planet to Earth on average.
+- ⚡ Fun fact: Mercury is on average the closest planet to Earth.
 
 <!---
 nukiduki/nukiduki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
